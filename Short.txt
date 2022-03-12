@@ -1,0 +1,73 @@
+ madhlya blocks la class flexxx nahi fakt pahilya block la aahe.
+ video block
+      <!-- start here-->
+            <div class="heading">
+              <h1></h1>
+              <!-- block 1 start-->
+              <div class="flexxx">
+                <div class="flex">
+                  <div class="body">
+                    <div class="image">
+                      <img src="/images/-1.jpg" alt="-1 image">
+                      <div class="content">
+                        <p><a href="videos/-1.mp4">Preview</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!--more btn start-->
+              <div class="more">
+                <a href=".html">more...</a>
+              </div>
+            </div>
+            
+        marathi font link
+          <!--marathi google fonts-->
+  <link href="https://fonts.googleapis.com/css2?family=Yatra+One&display=swap" rel="stylesheet">
+  
+  all blocks in block
+      <!--Maharaj start here-->
+      <div class="heading">
+        <h1> Maharaj</h1>
+        <!--Maharaj block 1 start-->
+        <div class="flexxx">
+          <div class="flex">
+            <div class="body">
+              <div class="image">
+                <img src="/images/maharaj-1.jpg" alt="Shivaji maharaj image.">
+                <div class="content">
+                  <p>
+                    <a href="/videos/maharaj-1.mp4">Preview</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--Maharaj block 2 start-->
+          <div class="flex none">
+            <div class="body">
+              <div class="image">
+                <img src="/images/maharaj-3.jpg" alt="maharaj-3 image">
+                <div class="content">
+                  <p>. <a href="videos/maharaj-3.mp4">Preview</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--Maharaj block 3 start-->
+          <div class="flex none">
+            <div class="body">
+              <div class="image">
+                <img src="/images/maharaj-4.jpg" alt="maharaj-4 image">
+                <div class="content">
+                  <p>. <a href="videos/maharaj-4.mp4">Preview</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--more btn start-->
+        <div class="more">
+          <a href="maharaj.html">more...</a>
+        </div>
+      </div>
